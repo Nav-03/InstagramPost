@@ -1,13 +1,19 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 body{
     background-color: black;
-    font-size: 14px;
+    padding: 0%;
+    margin: 0%;
+    
 }
+.post-title{
+    font-size: 10px;
+}
+
 .post{
-    padding-top: 10%;
-    padding-right: 20%;    
-    padding-bottom: 10%;
-    padding-left: 20%;
+    margin-top: 10%;
+    margin-right: 20%;    
+    margin-bottom: 10%;
+    margin-left: 20%;
     border-style: inset;
 }
 
@@ -29,5 +35,10 @@ img{
 .text{
     background-color: white;
     padding: 4px 4px 4px 4px;
+    font-size: 10px;
    
+}
+.text-icons{
+    font-size: 18px;
+    
 }
