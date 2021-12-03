@@ -15,7 +15,8 @@ body{
     margin-bottom: 10%;
     margin-left: 20%;
     border-style: inset;
-    object-fit: cover;
+    width: 400px;
+    justify-content: space-around;
 }
 
 .post-title{
