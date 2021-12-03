@@ -15,6 +15,7 @@ body{
     margin-bottom: 10%;
     margin-left: 20%;
     border-style: inset;
+    object-fit: cover;
 }
 
 .post-title{
@@ -26,8 +27,8 @@ body{
 }
 img{
     width: 100%;
-    height: fit-content;
-    max-width: 40vw;
+    height: 150px;
+    object-fit: cover;
     
 
 }
